@@ -2,8 +2,8 @@
   "cache_time": 7200,
   "api_site": {
     "regular_site": {
-      "api": " ",
-      "name": "常规影视站",
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "name": "高清资源站",
       "detail": " ",	  
       "is_adult": false
     },
