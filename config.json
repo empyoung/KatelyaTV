@@ -2,9 +2,9 @@
   "cache_time": 7200,
   "api_site": {
     "regular_site": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
-      "name": "高清资源站",
-      "detail": " ",	  
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com",	  
       "is_adult": false
     },
     "adult_site": {
